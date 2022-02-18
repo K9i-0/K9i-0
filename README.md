@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=K9i-0&langs_count=8&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=K9i-0&count_private=true&show_icons=true" />
+</a>
+
 <!--
 **K9i-0/K9i-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
