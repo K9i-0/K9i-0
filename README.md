@@ -1,11 +1,9 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=K9i-0&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=K9i-0&langs_count=8&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=K9i-0&count_private=true&show_icons=true" />
-</a>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=K9i-0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Zenn Articles
+
 <!-- profile updater begin: zenn -->
 - Feb 18 [Grinderを使って、ターミナルで実行するタスクをDartで書く](https://zenn.dev/k9i/articles/bcfa83b08e56d6)
 - Feb 18 [Github ActionsでのFlutterのセットアップを高速化する](https://zenn.dev/k9i/articles/65ed8841d5e3ff)
