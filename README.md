@@ -5,11 +5,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
-- Feb 18 [Grinderを使って、ターミナルで実行するタスクをDartで書く](https://zenn.dev/k9i/articles/bcfa83b08e56d6)
-- Feb 18 [Github ActionsでのFlutterのセットアップを高速化する](https://zenn.dev/k9i/articles/65ed8841d5e3ff)
-- Feb 15 [DerryでFlutter開発でよく使うコマンドのショートカットをプロジェクトに設定する](https://zenn.dev/k9i/articles/c54446a72f1f46)
-- Feb 7 [Githubに貼る画像サイズを簡単にいい感じにしたい](https://zenn.dev/k9i/articles/f835cf8067ad9a)
-- Feb 7 [自動生成ファイルをGithubのPull Requestから隠す](https://zenn.dev/k9i/articles/8652a463b8676b)
+- Feb 4 [masonリポジトリを作って、個人用brickを管理し、異次元のFlutter開発を検討する](https://zenn.dev/toridori/articles/859aa1999ece9a)
+- Feb 2 [Riverpodでページングに対応した画面を爆速で実装する仕組みを作る](https://zenn.dev/toridori/articles/b8c333e1bb8b9b)
+- Dec 24 [アプリを断捨離する](https://zenn.dev/k9i/articles/1c370730e036aa)
+- Dec 24 [Flutterアプリからブラウザアプリを開く](https://zenn.dev/k9i/articles/0bdfdd107e8aa5)
+- Dec 24 [text_style_previewでFlutterのTextStyleを混乱せず選ぶ](https://zenn.dev/k9i/articles/b749113d071e6a)
 <!-- profile updater end: zenn -->
 
 <!--
