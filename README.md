@@ -5,11 +5,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Feb 27 [riverpod_generatorで生成できるProviderの種類と書き方（1.2.0時点）](https://zenn.dev/toridori/articles/754f097b86911e)
 - Feb 4 [masonリポジトリを作って、個人用brickを管理し、異次元のFlutter開発を検討する](https://zenn.dev/toridori/articles/859aa1999ece9a)
 - Feb 2 [Riverpodでページングに対応した画面を爆速で実装する仕組みを作る](https://zenn.dev/toridori/articles/b8c333e1bb8b9b)
 - Dec 24 [アプリを断捨離する](https://zenn.dev/k9i/articles/1c370730e036aa)
 - Dec 24 [Flutterアプリからブラウザアプリを開く](https://zenn.dev/k9i/articles/0bdfdd107e8aa5)
-- Dec 24 [text_style_previewでFlutterのTextStyleを混乱せず選ぶ](https://zenn.dev/k9i/articles/b749113d071e6a)
 <!-- profile updater end: zenn -->
 
 <!--
