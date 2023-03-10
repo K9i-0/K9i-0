@@ -5,11 +5,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Mar 9 [RiverpodリポジトリのLintルールが面白かった](https://zenn.dev/toridori/articles/711eb36d6a27e9)
 - Mar 8 [Flutter Webをローカルネットワークから確認できるように立ち上げるgrinderコマンド](https://zenn.dev/toridori/articles/673cfe00628bb4)
 - Mar 4 [FlutterアプリにChatGPT APIを組み込んでみた](https://zenn.dev/toridori/articles/25c310b2dad300)
 - Mar 2 [url_launcherのLinkウィジェットを使ってFlutter Webで実際のリンクを表示する](https://zenn.dev/toridori/articles/e95423b1542a7c)
 - Feb 27 [riverpod_generatorで生成できるProviderの種類と書き方（1.2.0時点）](https://zenn.dev/toridori/articles/754f097b86911e)
-- Feb 4 [masonリポジトリを作って、個人用brickを管理し、異次元のFlutter開発を検討する](https://zenn.dev/toridori/articles/859aa1999ece9a)
 <!-- profile updater end: zenn -->
 
 <!--
