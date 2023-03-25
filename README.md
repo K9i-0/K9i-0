@@ -5,11 +5,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Mar 24 [Riverpod Generator入門: メリットを知る](https://zenn.dev/k9i/articles/2159e248505f60)
 - Mar 15 [ChatGPT APIを使ったGrinderコマンドを作成する](https://zenn.dev/k9i/articles/46a1e23fb734ba)
 - Mar 14 [VS Codeのウィンドウを快適に開くためにやってること](https://zenn.dev/k9i/articles/ddb81c1702a05c)
 - Mar 12 [Flutterおすすめのimport周りの設定](https://zenn.dev/k9i/articles/34dab7d09b29a1)
 - Mar 10 [riverpod_generatorで生成されるProvider名を変える方法](https://zenn.dev/toridori/articles/eeee255bd555a2)
-- Mar 9 [RiverpodリポジトリのLintルールが面白かった](https://zenn.dev/toridori/articles/711eb36d6a27e9)
 <!-- profile updater end: zenn -->
 
 <!--
