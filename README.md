@@ -5,11 +5,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Mar 28 [Flutter 3.7系へのアップデートでfirebase_dynamic_linksを使っている場合の注意点](https://zenn.dev/k9i/articles/44d6ce8e2d4773)
 - Mar 26 [ユーザーの選んだ画像からFlutterアプリのテーマカラーを選ぶ](https://zenn.dev/k9i/articles/1ab92bf16a11f2)
 - Mar 24 [Riverpod Generator入門: メリットを知る](https://zenn.dev/k9i/articles/2159e248505f60)
 - Mar 15 [ChatGPT APIを使ったGrinderコマンドを作成する](https://zenn.dev/k9i/articles/46a1e23fb734ba)
 - Mar 14 [VS Codeのウィンドウを快適に開くためにやってること](https://zenn.dev/k9i/articles/ddb81c1702a05c)
-- Mar 12 [Flutterおすすめのimport周りの設定](https://zenn.dev/k9i/articles/34dab7d09b29a1)
 <!-- profile updater end: zenn -->
 
 <!--
