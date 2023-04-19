@@ -5,11 +5,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Apr 18 [【Flutter】Discontinuedなパッケージ使うのやめてもらっていいですか](https://zenn.dev/k9i/articles/ece50eb7315449)
 - Apr 14 [GitHub Copilot CLIの始め方](https://zenn.dev/k9i/articles/56920952ce9644)
 - Apr 11 [Flutterパッケージの更新に役立つTips](https://zenn.dev/k9i/articles/ffa716e272afaa)
 - Apr 7 [Flutterエンジニアがmacのストレージ容量を確保したいときに読む記事](https://zenn.dev/k9i/articles/3e5c9a5f96a554)
 - Apr 4 [Grinderタスクを複数プロジェクトで共有する方法](https://zenn.dev/k9i/articles/7edaab87c644aa)
-- Mar 31 [【Flutter】iOS, macOSをアプデした後でiOS向けビルドが通らないときの対処法](https://zenn.dev/k9i/articles/b7957a1ff16d7e)
 <!-- profile updater end: zenn -->
 
 <!--
