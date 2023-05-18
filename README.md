@@ -5,11 +5,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- May 18 [【Flutter】Dart3リリースにあわせて読みたいpubspecの要求sdkバージョンの話](https://zenn.dev/yumemi_inc/articles/20230518_dart_sdk_3)
 - May 6 [【Flutter】custom_lintを使ったパッケージを作ってみた](https://zenn.dev/k9i/articles/20230506_material_button_assist)
 - May 2 [おすすめmac向けアプリ](https://zenn.dev/k9i/articles/20230502_macapp)
 - Apr 18 [【Flutter】Discontinuedなパッケージ使うのやめてもらっていいですか](https://zenn.dev/k9i/articles/ece50eb7315449)
 - Apr 14 [GitHub Copilot CLIの始め方](https://zenn.dev/k9i/articles/56920952ce9644)
-- Apr 11 [Flutterパッケージの更新に役立つTips](https://zenn.dev/k9i/articles/ffa716e272afaa)
 <!-- profile updater end: zenn -->
 
 <!--
