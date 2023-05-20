@@ -1,16 +1,23 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=K9i-0&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Hi there!
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=K9i-0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Flutter Developer based in Japan 🇯🇵.
 
-# Zenn Articles
+In my spare time, I enjoy developing a variety of packages 😎. You can check them out here: https://pub.dev/publishers/k9i.app/packages
 
-<!-- profile updater begin: zenn -->
-- May 18 [【Flutter】Dart3リリースにあわせて読みたいpubspecの要求sdkバージョンの話](https://zenn.dev/yumemi_inc/articles/20230518_dart_sdk_3)
-- May 6 [【Flutter】custom_lintを使ったパッケージを作ってみた](https://zenn.dev/k9i/articles/20230506_material_button_assist)
-- May 2 [おすすめmac向けアプリ](https://zenn.dev/k9i/articles/20230502_macapp)
-- Apr 18 [【Flutter】Discontinuedなパッケージ使うのやめてもらっていいですか](https://zenn.dev/k9i/articles/ece50eb7315449)
-- Apr 14 [GitHub Copilot CLIの始め方](https://zenn.dev/k9i/articles/56920952ce9644)
-<!-- profile updater end: zenn -->
+I'm also a big fan of the [Riverpod] package and have had the opportunity to contribute to it 🥳. Here are a few of my contributions:
+
+1. https://github.com/rrousselGit/riverpod/pull/2274
+2. https://github.com/rrousselGit/riverpod/pull/2306
+
+Thanks for stopping by my profile!
+
+## GitHub Stats
+
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=K9i-0&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=K9i-0&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=K9i-0&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **K9i-0/K9i-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Riverpod]: https://github.com/rrousselGit/riverpod
